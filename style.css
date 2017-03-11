@@ -1,0 +1,253 @@
+
+.container{
+  width:1100px;
+  margin:auto;
+}
+.clear{
+  clear:both;
+}
+.header {
+  background-image:url("../images/header.jpg");
+  background-size:cover;
+  height:600px;
+  width:100%;
+}
+.header .logo{
+  float:left;
+}
+.intro{
+  background-color:#1E2D3B;
+  height:80px;
+  overflow:hidden;
+}
+.navbar {
+
+  float:right;
+
+
+}
+.header .logo img{
+  width:25%;
+  margin:0px;
+  padding-left:20px;
+}
+.header .logo p{
+  text-transform:uppercase;
+  margin:0px;
+  padding-top:0px;
+  padding-left:20px;
+  color:white;
+  letter-spacing: 3px;
+  font-weight:bold;
+}
+.navbar{
+
+}
+.navbar ul {
+  list-style: none;
+  margin:0px;
+}
+.navbar ul li{
+float:left;
+padding:25px;
+}
+.navbar ul li a{
+  text-decoration:none;
+  text-transform:uppercase;
+  color:white;
+}
+.header .text {
+  margin-top:180px;
+  float:right;
+  width:25%;
+  text-align:center;
+  text-transform:uppercase;
+  color:#1E2D3B;
+  font-size:25px;
+  font-weight:bold;
+  margin-right:0px;
+
+}
+.services{
+
+    margin-top:20px;
+}
+.services h1{
+  text-align:center;
+  color:#C6C6C6;
+  text-transform:uppercase;
+  letter-spacing:3px;
+
+}
+.box{
+  width:30%;
+float:left;
+background-color:#F7F7F7;
+margin:10px;
+margin-bottom:40px;
+
+}
+.box img{
+  width:100%;
+
+}
+.box h5 {
+  color:#3D5975;
+  font-size:20px;
+}
+.box  h5 ,.box p{
+  margin:30px;
+}
+.box p {
+  color:#3B3A3A;
+  line-height:1.5;
+}
+.about{
+  background-color:#F7F7F7;
+  height: 450px;
+
+  overflow:hidden;
+  margin-bottom:40px;
+}
+.abtext{
+  width:35%;
+  float:left;
+}
+.abtext h1{
+  text-align:center;
+  color:#C6C6C6;
+  text-transform:uppercase;
+  letter-spacing:3px;
+
+}
+.abtext p{
+  color:#3B3A3A;
+  line-height:1.5;
+    padding:20px;
+}
+.image{
+  float:right;
+  width:40%;
+padding-top:0px;
+margin-top:0px;
+}
+.image img{
+  width:100%;
+  padding:0px;
+  margin:0px;
+}
+.yellow{
+  background-color: #EDCD1F;
+  height:150px;
+  padding:20px;
+
+}
+.yellow .box1{
+  text-align:center;
+  width:23%;
+  float:left;
+  border-right:1px solid white;
+  overflow:hidden;
+}
+.yellow .box1 h1{
+  color:white;
+  font-weight:bold;
+
+}
+.yellow .box1 p{
+  color:#3D595F;
+  text-transform:capitalize;
+  font-weight:bold;
+  font-size:15px;
+}
+.projects {
+  margin-top:40px;
+  overflow:hidden;
+  margin-bottom:40px;
+
+}
+.projects .port {
+  width:45%;
+  float:left;
+  padding:0px;
+  margin:10px;
+}
+.projects h1{
+  text-align:center;
+  color:#C6C6C6;
+  text-transform:uppercase;
+  letter-spacing:3px;
+}
+.projects .port img{
+  width:100%;
+
+}
+.clients {
+width:100%;
+background-color:  #F7F7F7;
+height:200px;
+text-align:center;
+overflow:hidden;
+margin-bottom:40px;
+
+}
+.clients img{
+  margin:0px;
+  padding-top:50px;
+  padding-left:0px;
+  padding-right:0px;
+}
+
+
+.clients h1{
+  text-align:center;
+  color:#C6C6C6;
+  text-transform:uppercase;
+  letter-spacing:3px;
+}
+.contact .inqui{
+  width:30%;
+  float:left;
+}
+.contact .inqui h3{
+  font-weight:200;
+}
+.contact .inqui input[type="text"]{
+  color:#E4DDE1;
+  margin:10px;
+  background-color:#F7F7F7;
+  border:none;
+  padding:5px;
+  width:100%;
+}
+.contact .inqui input[name="message"]{
+  height:100px;
+  width:100%;
+}
+.contact .inqui input[type="button"]{
+  float:right;
+  color:white;
+  background-color:black;
+  border:none;
+  padding:5px;
+}
+.head{
+  float:right;
+  width:50%;
+}
+.head h3{
+    font-weight:200;
+}
+.head p{
+  margin:5px;
+  font-size:15px;
+}
+.copy{
+  float:left;
+}
+.comm{
+  float:right;
+}
+.comm img{
+  width:25px;
+}
